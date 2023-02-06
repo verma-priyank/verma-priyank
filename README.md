@@ -8,7 +8,7 @@ I am a frontend developer who loves React!
 
 * 🌍  I'm based in Lucknow.
 * ✉️  You can contact me at [priyankverma668@gmail.com](mailto:priyankverma668@gmail.com)
-* 🚀  I'm currently working on [E-Commerce Website](http://lovely-pasca-4e9ce1.netlify.app/)
+* 🚀  I'm currently working on [E-Commerce Website](https://my-crown-clothing-shop.netlify.app/)
 * 🧠  I'm learning Nodejs
 * ⚡  Loves Action rather then Reaction.
 
